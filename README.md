@@ -1,7 +1,7 @@
 # TopMenu_PS1_WPF
 Build a top menu in your WPF application
 
-![alt text](https://github.com/damienvanrobaeys/Loadingindicators_PS1_WPF/blob/master/gif/loadingindicator_preview.gif)
+![alt text](https://github.com/damienvanrobaeys/TopMenu_PS1_WPF/blob/master/GIF/TopMenu_Preview.gif)
 
 **Create cool progress indicator with PowerShell and WPF**
 
